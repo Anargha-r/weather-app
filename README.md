@@ -25,7 +25,7 @@ Clone or download the project files from the repository.
 Obtain an API key from api.openweathermap.org and paste it into the key.js file.
 Open the index.html file in a web browser.
 Enter the desired location or city name in the input field.
-Click the "Get Weather" button to fetch and display the weather data.
+Click the "Search" button to fetch and display the weather data.
 Additional Features
 
 # Conclusion
