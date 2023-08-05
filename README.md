@@ -13,7 +13,7 @@ The Weather App is a web application that allows users to check the current weat
 
 To use the `api.openweathermap.org` API, you need to sign up on their website and generate an API key. This key is essential for accessing weather data through their API. Once you have obtained the API key, paste it in the `key.js` file as follows:
 
-```js
+js
 // key.js
 const API_KEY = 'YOUR_API_KEY_HERE';
 API Request and Response
