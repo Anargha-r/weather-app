@@ -31,5 +31,6 @@ Future improvements:
 Forecast data display.
 Geolocation-based weather.
 Responsive design for mobile devices.
-Conclusion
+
+#Conclusion
 The Weather App project demonstrates how to build a simple web application using HTML, JavaScript, and CSS to fetch real-time weather data from api.openweathermap.org. With this app, users can easily access current weather conditions for any location and stay informed about the weather at their desired places.
