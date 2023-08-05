@@ -15,22 +15,18 @@ To use the `api.openweathermap.org` API, you need to sign up on their website an
 
 js
 // key.js
+
 const API_KEY = 'YOUR_API_KEY_HERE';
 API Request and Response
 The app will make an HTTP request to the api.openweathermap.org server to get weather data. The data is received in JSON format and contains various weather parameters such as temperature, humidity, weather condition, etc. The script.js file will handle the API request and parsing of the response.
 
-#How to Use the Weather App:
-
+# How to Use the Weather App
 Clone or download the project files from the repository.
 Obtain an API key from api.openweathermap.org and paste it into the key.js file.
 Open the index.html file in a web browser.
 Enter the desired location or city name in the input field.
 Click the "Get Weather" button to fetch and display the weather data.
 Additional Features
-Future improvements:
-Forecast data display.
-Geolocation-based weather.
-Responsive design for mobile devices.
 
-#Conclusion
+# Conclusion
 The Weather App project demonstrates how to build a simple web application using HTML, JavaScript, and CSS to fetch real-time weather data from api.openweathermap.org. With this app, users can easily access current weather conditions for any location and stay informed about the weather at their desired places.
