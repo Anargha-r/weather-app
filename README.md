@@ -26,7 +26,6 @@ Obtain an API key from api.openweathermap.org and paste it into the key.js file.
 Open the index.html file in a web browser.
 Enter the desired location or city name in the input field.
 Click the "Search" button to fetch and display the weather data.
-Additional Features
 
 # Conclusion
 The Weather App project demonstrates how to build a simple web application using HTML, JavaScript, and CSS to fetch real-time weather data from api.openweathermap.org. With this app, users can easily access current weather conditions for any location and stay informed about the weather at their desired places.
